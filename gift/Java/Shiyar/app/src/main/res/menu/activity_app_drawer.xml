@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single" android:id="@+id/group1">
+        <item
+            android:id="@+id/match"
+            android:icon="@drawable/ic_soccer"
+            android:title="Live Sport - بث مباشر مباريات" />
+    </group>
+    <group android:checkableBehavior="single" android:id="@+id/group2">
+        <item android:title=" ----------  TV - تلفاز  ----------"/>
+
+    <item
+            android:id="@+id/arabic"
+            android:icon="@drawable/tv"
+            android:title="Arabic TV - قنوات العربية" />
+        <item
+            android:id="@+id/sport"
+            android:icon="@drawable/sport"
+            android:title="Sport TV - قنوات الرياضية" />
+        <item
+            android:id="@+id/kurdish"
+            android:icon="@drawable/kurdish_tv"
+            android:title="Kurdish TV - قنوات الكردية" />
+
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/group3">
+
+        <item
+            android:id="@+id/academy"
+            android:icon="@drawable/ic_school"
+            android:title="Academy Shiyar - اكاديمية شيار" />
+        <item
+            android:id="@+id/editor"
+            android:icon="@drawable/ic_code"
+            android:title="Code Editor - محرر الأكواد" />
+
+        <item
+            android:id="@+id/youtube"
+            android:icon="@drawable/ic_youtube"
+            android:title="Coder Shiyar - YouTube" />
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/group4">
+    </group>
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shiyar Live - شيار لايف</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2175466776333013/2415104061</string>
+    <string name="ADMOB_INTERSTITIAL_ID" translatable="false">ca-app-pub-2175466776333013/8695541576</string>
+
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+</resources>
